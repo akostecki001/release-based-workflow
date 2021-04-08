@@ -14,6 +14,7 @@ http://bit.ly/html5-invasion
 
 If you make an interesting fork or enhancement of the game, let me know and it'll get
 linked to here. This original repo will stay matching the code in the book.
+https://github.com/akostecki001/release-based-workflow/tree/newBranch
 
 For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resources, see:
 
